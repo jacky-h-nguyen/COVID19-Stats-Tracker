@@ -8,8 +8,9 @@ COVID19 Stats Tracker incorporates APIs that draw live data including total case
 COVID19 Stats Tracker was built using Python incorporating the libraries: requests, Tkinter, datetime, webbrowser, newsapi, speech_recognition and pyttsx3. The requests module was utilized in order to web scrape data for live stats of the pandemic. Datetime was used to display the current time while the webbrowser library was used to open links to COVID-19 resources. The newsapi was used to fetch the top pandemic-related news articles. Lastly, in conjunction with all the commands, speech_recognition allows the user to activate commands via voice while pyttsx3 reads out prompts. 
 
 # Development Team:
+Jacky Nguyen - https://github.com/jacky-h-nguyen
+
 Jacky Liu - https://github.com/jackyliu1999
 
 Anson Wong - https://github.com/ansonwong250
 
-Jacky Nguyen - https://github.com/jacky-h-nguyen
